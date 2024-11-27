@@ -11,10 +11,10 @@ The dataset includes:
 ## Approach
 1. Use **R** to scrape NFL statistics and betting data from web sources.
 2. Process and analyze the data using **Python**.
-3. Build predictive models in Python and visualize the results.
+3. Build predictive models in R and visualize the results.
 4. Document findings and predictions.
 
 ## Tools
-- **R**: For web scraping and data preparation.
-- **Python**: For analysis, modeling, and visualization.
+- **R**: For web scraping, data preparation and modeling
+- **Python**: For analysis and visualization
 
