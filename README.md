@@ -5,8 +5,7 @@ This project explores whether the number of wins an NFL team achieves in a seaso
 
 ## Data
 The dataset includes:
-- Historical team statistics from 2021-2023 NFL seasons.
-- Preseason win total betting lines.
+- Historical team statistics from 2021-2023 NFL seasons
 
 ## Approach
 1. Use **R** to scrape NFL statistics and betting data from web sources.
