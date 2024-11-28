@@ -10,13 +10,11 @@ The dataset includes:
 ## **Approach**  
 1. **Web Scraping in R**:  
    Extract NFL team statistics from CBS Sports for multiple seasons.  
-2. **Data Processing and Analysis in Python**:  
+2. **Data Visualization and Analysis in Python**:  
    Use Python for detailed analysis and generating visual insights to support the predictive models.  
 3. **Predictive Modeling in R**:  
-   Build models to predict NFL team win totals using statistical and machine learning techniques.  
-4. **Documentation and Visualization**:  
-   Integrate findings into clear reports and use Python visualizations to illustrate trends and predictions.  
+   Build models to predict NFL team win totals using statistical and machine learning techniques.   
 
 ## **Tools**  
 - **R**: Web scraping, data preparation, and model development using `tidyverse` and `tidymodels`.  
-- **Python**: Data visualization for detailed graphical representations of results and trends.
+- **Python**: Data visualization for detailed graphical representations of trends.
