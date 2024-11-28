@@ -1,15 +1,15 @@
 # **DSE511_Project: Predicting NFL Win Totals**
 
 ## **Problem Statement**  
-This project investigates whether the number of wins an NFL team achieves in a season can be predicted before the season starts. Using historical team statistics and preseason win total betting lines, we aim to build a predictive model with potential applications in sports analytics and betting.
+This project investigates whether the number of wins an NFL team achieves in a season can be predicted before the season starts. Using historical team statistics, we aim to build a predictive model with potential applications in sports analytics.
 
 ## **Data**  
 The dataset includes:  
-- Historical NFL team statistics and preseason betting lines from the 2021, 2022, and 2023 seasons.
+- Historical NFL team statistics from the 2021, 2022, and 2023 seasons.
 
 ## **Approach**  
 1. **Web Scraping in R**:  
-   Extract NFL team statistics and preseason betting data from CBS Sports for multiple seasons.  
+   Extract NFL team statistics from CBS Sports for multiple seasons.  
 2. **Data Processing and Analysis in Python**:  
    Use Python for detailed analysis and generating visual insights to support the predictive models.  
 3. **Predictive Modeling in R**:  
@@ -19,4 +19,4 @@ The dataset includes:
 
 ## **Tools**  
 - **R**: Web scraping, data preparation, and model development using `tidyverse` and `tidymodels`.  
-- **Python**: Data visualization for detailed graphical representations of results and trends.  
+- **Python**: Data visualization for detailed graphical representations of results and trends.
