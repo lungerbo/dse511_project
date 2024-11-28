@@ -1,19 +1,22 @@
-# dse511_project
+# **DSE511_Project: Predicting NFL Win Totals**
 
-## Problem Statement
-This project explores whether the number of wins an NFL team achieves in a season can be predicted before the season starts. The analysis uses historical team statistics and preseason win total betting lines to build a predictive model, with potential applications in sports betting.
+## **Problem Statement**  
+This project investigates whether the number of wins an NFL team achieves in a season can be predicted before the season starts. Using historical team statistics and preseason win total betting lines, we aim to build a predictive model with potential applications in sports analytics and betting.
 
-## Data
-The dataset includes:
-- Historical team statistics from 2021-2023 NFL seasons
+## **Data**  
+The dataset includes:  
+- Historical NFL team statistics and preseason betting lines from the 2021, 2022, and 2023 seasons.
 
-## Approach
-1. Use **R** to scrape NFL statistics and betting data from web sources.
-2. Process and analyze the data using **Python**.
-3. Build predictive models in R and visualize the results.
-4. Document findings and predictions.
+## **Approach**  
+1. **Web Scraping in R**:  
+   Extract NFL team statistics and preseason betting data from CBS Sports for multiple seasons.  
+2. **Data Processing and Analysis in Python**:  
+   Use Python for detailed analysis and generating visual insights to support the predictive models.  
+3. **Predictive Modeling in R**:  
+   Build models to predict NFL team win totals using statistical and machine learning techniques.  
+4. **Documentation and Visualization**:  
+   Integrate findings into clear reports and use Python visualizations to illustrate trends and predictions.  
 
-## Tools
-- **R**: For web scraping, data preparation and modeling
-- **Python**: For analysis and visualization
-
+## **Tools**  
+- **R**: Web scraping, data preparation, and model development using `tidyverse` and `tidymodels`.  
+- **Python**: Data visualization for detailed graphical representations of results and trends.  
